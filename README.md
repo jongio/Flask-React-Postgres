@@ -44,7 +44,7 @@ pip install -r requirements.txt
 code .
 ```
 
-## 2. Running The Code Locally
+## 2. Running the Code Locally
 
 1. Build the react.js front-end.
 ```bash
@@ -62,7 +62,7 @@ python manage.py runserver
 ```
 4. Check ```localhost:5000``` in your browser to view the web application.
 
-## 3. Deploying The Code To Azure
+## 3. Deploying the Code to Azure
 
 1. Go to the extensions tab on VS Code
 
